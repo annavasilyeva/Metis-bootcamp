@@ -1,0 +1,76 @@
+{
+ "name": "patents",
+ "children": [
+ {
+   "name": "Data Application Systems",
+   "children": [
+    {"name": "Electronic Document Information", "size": 89},
+    {"name": "Mobile Geographic Location", "size": 187},
+    {"name": "Audio", "size": 132},
+    {"name": "File System Synchronization", 
+	 "children":[
+	  {"name": "Calendar Events", "size": 34},
+	  {"name": "Advertisement", "size": 225},
+	  {"name": "User Information", "size": 231}
+	 ]
+	},
+	{"name": "Video", "size": 91},
+	{"name": "Display", "size": 319},
+	{"name": "Memory",
+	 "children":[
+	  {"name": "Text and Speech Recognition", "size": 95},
+	  {"name": "File System Development", "size": 525},
+	  {"name": "Virtual Memory", "size": 122}
+	 ]
+	}
+   ]
+  },
+  {
+   "name": "Query Results",
+   "children": [
+    {"name": "Image Query", "size": 10},
+    {"name": "Web Search Results", "size": 58},
+    {"name": "Language Search Engine", "size": 70},
+    {"name": "Document Query", "size": 49}
+   ]
+  },
+  {
+   "name": "Images/Text",
+   "children": [
+    {"name": "Panoramic Display", "size": 64},
+    {"name": "Object Identification", "size": 89},
+    {"name": "Pixel Colors", "size": 28},
+    {"name": "Image and Text Recognition", "size": 64}
+   ]
+  },
+  {
+   "name": "Network Services",
+   "children": [
+    {"name": "Network Message Communication", "size": 224},
+    {"name": "Application Interface System", "size": 203},
+    {"name": "Web Browser", "size": 74},
+    {"name": "Content Management", "size": 264}
+   ]
+  },
+  {
+   "name": "Data Storage",
+   "children": [
+    {"name": "Database Systems", "size": 242},
+    {"name": "Storage Location", "size": 209},
+    {"name": "Client Information Key", "size": 64}
+   ]
+  },
+  {
+   "name": "Media Content",
+   "children": [
+    {"name": "Mobile Network", "size": 70},
+    {"name": "Application System Display", "size": 100},
+    {"name": "Media Device", "size": 49},
+    {"name": "Content Client", "size": 41}
+   ]
+  }  
+ ]
+}
+
+
+
